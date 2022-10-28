@@ -43,6 +43,6 @@ public class Main
 1111分數是：88
 ```
 
-線上程式測試：
-
-{% embed url="https://www.onlinegdb.com/online_java_compiler" %}
+{% hint style="info" %}
+原文：[java 不换行输出\_java的输入输出](https://blog.csdn.net/weixin\_39774682/article/details/114445298)
+{% endhint %}
