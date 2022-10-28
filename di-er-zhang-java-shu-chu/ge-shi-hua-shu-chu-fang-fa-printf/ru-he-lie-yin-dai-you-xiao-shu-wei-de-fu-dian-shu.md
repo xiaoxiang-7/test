@@ -1,10 +1,6 @@
----
-description: >-
-  本教程介紹瞭如何獲取小數點後兩位的浮點數，還列舉了一些示例程式碼來理解這個主題。獲取帶兩位小數的浮點數有幾種方法，如使用 printf()
-  方法、DecimalFormat 類、String 類的 format() 方法等。我們來仔細看看這些例子。
----
-
 # 如何列印帶有小數位的浮點數
+
+本教程介紹瞭如何獲取小數點後兩位的浮點數，還列舉了一些示例程式碼來理解這個主題。獲取帶兩位小數的浮點數有幾種方法，如使用 `printf()` 方法、`DecimalFormat` 類、`String` 類的 `format()` 方法等。我們來仔細看看這些例子。
 
 ### 使用 Java 中的 `printf()` 方法以 2 個小數位列印浮點數 <a href="#shi-yong-java-zhong-de-printf-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu" id="shi-yong-java-zhong-de-printf-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu"></a>
 
