@@ -1,13 +1,15 @@
 # Table of contents
 
-## 重點一：
+* [認識 Java](README.md)
 
-* [Page 1](README.md)
-* [Page 2](zhong-dian-yi/page-2.md)
-* [Page 3](zhong-dian-yi/page-3.md)
-* [Page 4](zhong-dian-yi/page-4.md)
+## 第一章：
 
-## 重點二：java 輸出
+* [Page 1](di-yi-zhang/page-1.md)
+* [Page 2](di-yi-zhang/page-2.md)
+* [Page 3](di-yi-zhang/page-3.md)
+* [Page 4](di-yi-zhang/page-4.md)
 
-* [java 輸出換行](zhong-dian-er-java-shu-chu/java-shu-chu-huan-hang.md)
-* [Page 5](zhong-dian-er-java-shu-chu/page-5.md)
+## 第二章：java 輸出
+
+* [Java 輸出換行](di-er-zhang-java-shu-chu/java-shu-chu-huan-hang.md)
+* [Page 5](di-er-zhang-java-shu-chu/page-5.md)

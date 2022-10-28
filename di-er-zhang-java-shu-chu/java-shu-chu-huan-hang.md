@@ -1,4 +1,4 @@
-# java 輸出換行
+# Java 輸出換行
 
 ### java 輸出換行 (`print`、`println` 與 `printf` 的分別)
 
@@ -35,7 +35,7 @@ public class Main
     }
     
 }
-}j
+
 ```
 {% endcode %}
 
