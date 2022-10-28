@@ -22,7 +22,7 @@ System.out.printf();
 
 例如說以下程式碼：
 
-{% code title="例如說以下程式碼：" lineNumbers="true" %}
+{% code lineNumbers="true" %}
 ```java
 public class Main
 {
@@ -42,3 +42,7 @@ public class Main
 1111
 1111分數是：88
 ```
+
+線上程式測試：
+
+{% embed url="https://www.onlinegdb.com/online_java_compiler" %}
