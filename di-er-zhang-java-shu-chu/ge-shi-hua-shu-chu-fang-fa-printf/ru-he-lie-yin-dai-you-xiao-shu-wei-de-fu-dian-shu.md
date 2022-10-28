@@ -6,13 +6,6 @@ description: >-
 
 # 如何列印帶有小數位的浮點數
 
-目錄
-
-1. 使用 Java 中的 `printf()` 方法以 2 個小數位列印浮點數
-2. 在 Java 中使用 `DecimalFormat` 類以 2 個小數位列印浮點數
-3. 在 Java 中使用 `format()` 方法以 2 個小數位列印浮點數
-4. 在 Java 中使用 `DecimalFormat` 類以 2 個小數位列印浮點數
-
 ### 使用 Java 中的 `printf()` 方法以 2 個小數位列印浮點數 <a href="#shi-yong-java-zhong-de-printf-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu" id="shi-yong-java-zhong-de-printf-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu"></a>
 
 `printf()` 是一種向控制檯列印格式化輸出的方法。它類似於 C 語言中的 `printf()`。這裡，我們可以指定輸出的數字限制。`"%.2f"`指定它有 2 位小數。請看下面的例子。
