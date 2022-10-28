@@ -22,7 +22,7 @@ System.out.printf();
 
 例如說以下程式碼：
 
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```java
 public class Main
 {
