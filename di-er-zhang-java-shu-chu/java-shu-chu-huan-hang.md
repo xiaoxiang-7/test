@@ -31,11 +31,8 @@ public class Main
         System.out.println(1111); //換行打印,輸出後自動換行
         System.out.print(1111); //不換行打印
         System.out.printf("分數是：%d",88); //按格式輸出
-         
     }
-    
 }
-
 ```
 {% endcode %}
 
