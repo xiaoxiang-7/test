@@ -1,5 +1,7 @@
 # 格式化輸出方法 (printf)
 
+許多情況下，我們希望列印出來的資料能排列整齊，如此不但較為美觀，也較容易閱讀，這就必須仰賴格式化輸出方法：`System.out.printf();`。 其實，printf 與 C 語言的 `printf` 非常類似，列印時需分辨數值的資料型態，再依此設定列印格式，語法如下：
+
 ```java
 System.out.printf("列印文字與格式", 變數_1, 變數_2, …);
 ```
@@ -18,3 +20,6 @@ System.out.printf("列印文字與格式", 變數_1, 變數_2, …);
 | %5.2f | 5 位數及2 小數點 | \\"  | 印出雙引號   |
 | %.2f  | 浮點數及2小數點   | \\\\ | 印出反斜線   |
 
+{% hint style="info" %}
+原文：[Java 格式化輸出 - 翻轉工作室](http://www.tsnien.idv.tw/Java1\_WebBook/chap2/2-5%20%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BC%B8%E5%87%BA.html)
+{% endhint %}
