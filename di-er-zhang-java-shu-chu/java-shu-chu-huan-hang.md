@@ -1,6 +1,6 @@
 # Java 輸出換行
 
-### java 輸出換行 (`print`、`println` 與 `printf` 的分別)
+### Java 輸出換行 (`print`、`println` 與 `printf` 的分別)
 
 不換行打印：
 
@@ -22,7 +22,7 @@ System.out.printf();
 
 例如說以下程式碼：
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="例如說以下程式碼：" lineNumbers="true" %}
 ```java
 public class Main
 {
