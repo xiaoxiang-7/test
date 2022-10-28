@@ -12,4 +12,5 @@
 ## 第二章：java 輸出
 
 * [Java 輸出換行](di-er-zhang-java-shu-chu/java-shu-chu-huan-hang.md)
-* [Page 5](di-er-zhang-java-shu-chu/page-5.md)
+* [格式化輸出方法 (printf)](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/README.md)
+  * [列印帶有小數位的浮點數](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/lie-yin-dai-you-xiao-shu-wei-de-fu-dian-shu.md)
