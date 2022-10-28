@@ -106,3 +106,7 @@ public class SimpleTesting
 3.1415
 3.14
 ```
+
+{% hint style="info" %}
+原文：[如何在 Java 中列印帶有兩個個小數位的浮點數](https://www.delftstack.com/zh-tw/howto/java/how-to-print-a-float-with-2-decimal-places-in-java/)
+{% endhint %}
