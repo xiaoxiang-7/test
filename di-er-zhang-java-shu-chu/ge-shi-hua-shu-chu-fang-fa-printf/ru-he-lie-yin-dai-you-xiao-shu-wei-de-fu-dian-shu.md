@@ -30,7 +30,7 @@ public class SimpleTesting
 3.14
 ```
 
-### [在 Java 中使用 `DecimalFormat` 類以 2 個小數位列印浮點數](https://www.delftstack.com/zh-tw/howto/java/how-to-print-a-float-with-2-decimal-places-in-java/#%E5%9C%A8-java-%E4%B8%AD%E4%BD%BF%E7%94%A8-decimalformat-%E9%A1%9E%E4%BB%A5-2-%E5%80%8B%E5%B0%8F%E6%95%B8%E4%BD%8D%E5%88%97%E5%8D%B0%E6%B5%AE%E9%BB%9E%E6%95%B8) <a href="#zai-java-zhong-shi-yong-decimalformat-lei-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu" id="zai-java-zhong-shi-yong-decimalformat-lei-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu"></a>
+### 在 Java 中使用 `DecimalFormat` 類以 2 個小數位列印浮點數 <a href="#zai-java-zhong-shi-yong-decimalformat-lei-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu" id="zai-java-zhong-shi-yong-decimalformat-lei-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu"></a>
 
 `DecimalFormat` 是一個 Java 類，它提供了 Java 中格式化十進位制值的實用方法。這裡，我們使用 `setMaximumFractionDigits()` 方法來設定小數限制，使用 `format()` 方法來獲取格式化的輸出。
 
@@ -58,7 +58,7 @@ public class SimpleTesting
 3.14
 ```
 
-### [在 Java 中使用 `format()` 方法以 2 個小數位列印浮點數](https://www.delftstack.com/zh-tw/howto/java/how-to-print-a-float-with-2-decimal-places-in-java/#%E5%9C%A8-java-%E4%B8%AD%E4%BD%BF%E7%94%A8-format-%E6%96%B9%E6%B3%95%E4%BB%A5-2-%E5%80%8B%E5%B0%8F%E6%95%B8%E4%BD%8D%E5%88%97%E5%8D%B0%E6%B5%AE%E9%BB%9E%E6%95%B8) <a href="#zai-java-zhong-shi-yong-format-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu" id="zai-java-zhong-shi-yong-format-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu"></a>
+### 在 Java 中使用 `format()` 方法以 2 個小數位列印浮點數 <a href="#zai-java-zhong-shi-yong-format-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu" id="zai-java-zhong-shi-yong-format-fang-fa-yi-2-ge-xiao-shu-wei-lie-yin-fu-dian-shu"></a>
 
 Java `String` 類提供了一個 `format()` 方法來獲取格式化的輸出，但它返回的是一個字串物件，而不是一個浮點數。所以，我們需要將字串轉換為浮點數，以獲得最終的浮點數輸出。請看下面的例子。
 
