@@ -41,3 +41,5 @@
 
 * [if 與 else if 與 else](di-si-zhang-bi-jiao/if-yu-else-if-yu-else/README.md)
   * [例子：找出中位數(median)](di-si-zhang-bi-jiao/if-yu-else-if-yu-else/li-zi-zhao-chu-zhong-wei-shu-median.md)
+* [for 迴圈](di-si-zhang-bi-jiao/for-hui-quan/README.md)
+  * [例子：找出中位數(median)](di-si-zhang-bi-jiao/for-hui-quan/li-zi-zhao-chu-zhong-wei-shu-median.md)
