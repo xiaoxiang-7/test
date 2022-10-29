@@ -4,7 +4,8 @@
 
 ## 第一章：
 
-* [Page 1](di-yi-zhang/page-1.md)
+* [Page 1](di-yi-zhang/page-1/README.md)
+  * [例子：買雞蛋](di-yi-zhang/page-1/li-zi-mai-ji-dan.md)
 * [Page 2](di-yi-zhang/page-2.md)
 * [Page 3](di-yi-zhang/page-3.md)
 * [Page 4](di-yi-zhang/page-4.md)
