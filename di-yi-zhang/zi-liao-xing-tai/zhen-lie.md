@@ -33,7 +33,7 @@ int[] array = new int[3];
 
 記憶體配置：
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 存取元素 Access Elements
 
@@ -100,7 +100,7 @@ new int\[2]\[3]，創造『大小為2個陣列』，其元素內容為『大小�
 
 記憶體配置：
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 有沒有發現到，Java根本沒有所謂的多維陣列！它只是不斷的在一維陣列中塞另一個陣列！
 
@@ -133,7 +133,7 @@ matrix[1][2] = 7;
 
 假設要創造出的陣列長這樣：
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 對Java來說，由於陣列在記憶體中都是一維的，不同長度只是指向不同的物件，所以可以輕鬆的初始化。
 
