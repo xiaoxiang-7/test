@@ -33,7 +33,7 @@ int[] array = new int[3];
 
 記憶體配置：
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 存取元素 Access Elements
 
@@ -133,7 +133,7 @@ matrix[1][2] = 7;
 
 假設要創造出的陣列長這樣：
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 對Java來說，由於陣列在記憶體中都是一維的，不同長度只是指向不同的物件，所以可以輕鬆的初始化。
 
@@ -187,7 +187,7 @@ for(int i=0;i<3;i++)
 
 記憶體配置：
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 一個最大觀念是，Java的陣列是物件，且都是為一維的陣列。內容可以放值(value)或參考(reference)，因此可以陣列的內容是另一個陣列，創造出多維陣列的感覺。
 
