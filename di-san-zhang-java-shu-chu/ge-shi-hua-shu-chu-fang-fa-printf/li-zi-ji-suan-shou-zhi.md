@@ -21,36 +21,18 @@ public class Main
 {
 	public static void main(String[] args) {
 		
-		int b, c, d, e, f, g;
+		float m, n, o;
+		Scanner keyin = new Scanner(System.in);
+		m = keyin.nextInt();
+		n = keyin.nextInt();
+		o = m/n;
 		
-		Scanner sc = new Scanner(System.in);
-		b = sc.nextInt();
-		c = sc.nextInt();
-		d = sc.nextInt();
-		e = sc.nextInt();
-		f = sc.nextInt();
-		g = 1000-b-c-d-e-f;
-		String negative = String.format("+%04d", g);
-		String positive = String.format("%05d", g);
-		
-		System.out.println("+1000");
-		System.out.printf("-%04d", b);
-		System.out.printf("\n-%04d", c);
-		System.out.printf("\n-%04d", d);
-		System.out.printf("\n-%04d", e);
-		System.out.printf("\n-%04d", f);
-		System.out.println("\n-----");
-		
-		if (g>=0)
-		System.out.println(negative);
-		
-		else
-		System.out.println(positive);
+		System.out.printf("%.1f", o);
 	}
 }
 ```
 
-`\n` 代表換行。
+`"%.1f"` 代表浮點數並輸出至小數點後一位。
 
 {% hint style="info" %}
 參考文章：

@@ -73,7 +73,7 @@ a = a + "day";
 
 程式在Heap區另外開了一個新的字串物件，該物件的資料內容是"happyday"，也就是實際兩字串串接的結果，再把這個新的物件參考(reference)指定給變數a。 完成這個『看起來字串有增長』的動作。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 那，那個可憐的 "happy" 怎麼辦？
 
