@@ -4,11 +4,20 @@
 
 ## 第一章：
 
-* [Page 1](di-yi-zhang/page-1.md)
-  * [例子：買雞蛋](di-yi-zhang/page-1/li-zi-mai-ji-dan.md)
-* [Page 2](di-yi-zhang/page-2.md)
-* [Page 3](di-yi-zhang/page-3.md)
-* [Page 4](di-yi-zhang/page-4.md)
+* [第一支Java程式](di-yi-zhang/di-yi-zhi-java-cheng-shi.md)
+* [變數](di-yi-zhang/bian-shu.md)
+* [資料型態](di-yi-zhang/zi-liao-xing-tai/README.md)
+  * [基本資料型態](di-yi-zhang/zi-liao-xing-tai/ji-ben-zi-liao-xing-tai.md)
+  * [參考資料型態](di-yi-zhang/zi-liao-xing-tai/can-kao-zi-liao-xing-tai.md)
+  * [基本與參考資料型態差異](di-yi-zhang/zi-liao-xing-tai/ji-ben-yu-can-kao-zi-liao-xing-tai-cha-yi.md)
+  * [陣列](di-yi-zhang/zi-liao-xing-tai/zhen-lie.md)
+  * [字串](di-yi-zhang/zi-liao-xing-tai/zi-chuan.md)
+* [運算子](di-yi-zhang/yun-suan-zi/README.md)
+  * [指定、算數、單元運算子](di-yi-zhang/yun-suan-zi/zhi-ding-suan-shu-dan-yuan-yun-suan-zi.md)
+  * [關係、條件運算子](di-yi-zhang/yun-suan-zi/guan-xi-tiao-jian-yun-suan-zi.md)
+  * [三元、型態比對運算子](di-yi-zhang/yun-suan-zi/san-yuan-xing-tai-bi-dui-yun-suan-zi.md)
+  * [位元運算子](di-yi-zhang/yun-suan-zi/wei-yuan-yun-suan-zi.md)
+  * [例子：買雞蛋](di-yi-zhang/yun-suan-zi/li-zi-mai-ji-dan.md)
 
 ## 第二章：java 輸入
 
