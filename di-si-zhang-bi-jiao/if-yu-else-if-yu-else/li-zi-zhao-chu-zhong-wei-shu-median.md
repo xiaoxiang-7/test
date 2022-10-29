@@ -49,5 +49,5 @@ public class Main
 ```
 
 {% hint style="danger" %}
-解ˇ能
+解答可能沒有使用(median)來找出中位數，而是使用if、else if、else來比較。
 {% endhint %}
