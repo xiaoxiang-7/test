@@ -36,3 +36,8 @@
   * [例子：特殊字元輸出](di-san-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-te-shu-zi-yuan-shu-chu.md)
   * [例子：身分證驗證](di-san-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-shen-fen-zheng-yan-zheng.md)
 * [如何列印帶有小數位的浮點數？](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/ru-he-lie-yin-dai-you-xiao-shu-wei-de-fu-dian-shu.md)
+
+## 第四章：比較
+
+* [if 與 else if 與 else](di-si-zhang-bi-jiao/if-yu-else-if-yu-else/README.md)
+  * [例子：找出中位數(median)](di-si-zhang-bi-jiao/if-yu-else-if-yu-else/li-zi-zhao-chu-zhong-wei-shu-median.md)
