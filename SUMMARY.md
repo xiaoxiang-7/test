@@ -14,4 +14,5 @@
 
 * [Java 輸出換行](di-er-zhang-java-shu-chu/java-shu-chu-huan-hang.md)
 * [格式化輸出方法 (printf)](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/README.md)
-  * [如何列印帶有小數位的浮點數？](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/ru-he-lie-yin-dai-you-xiao-shu-wei-de-fu-dian-shu.md)
+  * [例子：計算商品單價](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-ji-suan-shang-pin-dan-jia.md)
+* [如何列印帶有小數位的浮點數？](di-er-zhang-java-shu-chu/ru-he-lie-yin-dai-you-xiao-shu-wei-de-fu-dian-shu.md)
