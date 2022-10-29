@@ -45,3 +45,8 @@
   * [例子：計算正數、負數和零的個數](di-si-zhang-bi-jiao/if-yu-else-if-yu-else/li-zi-ji-suan-zheng-shu-fu-shu-he-ling-de-ge-shu.md)
 * [for 迴圈](di-si-zhang-bi-jiao/for-hui-quan/README.md)
   * [例子：找出中位數(median)](di-si-zhang-bi-jiao/for-hui-quan/li-zi-zhao-chu-zhong-wei-shu-median.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1/README.md)
+  * [例子：迴文判斷](group-1/page-1/li-zi-hui-wen-pan-duan.md)
