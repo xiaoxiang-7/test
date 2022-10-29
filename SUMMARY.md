@@ -34,4 +34,5 @@
   * [例子：正負數前面補 "0"](di-san-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-zheng-fu-shu-qian-mian-bu-0.md)
   * [例子：計算收支](di-san-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-ji-suan-shou-zhi.md)
   * [例子：特殊字元輸出](di-san-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-te-shu-zi-yuan-shu-chu.md)
+  * [例子：身分證驗證](di-san-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/li-zi-shen-fen-zheng-yan-zheng.md)
 * [如何列印帶有小數位的浮點數？](di-er-zhang-java-shu-chu/ge-shi-hua-shu-chu-fang-fa-printf/ru-he-lie-yin-dai-you-xiao-shu-wei-de-fu-dian-shu.md)
